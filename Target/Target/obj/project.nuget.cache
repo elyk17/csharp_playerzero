@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6W3a+U9C49KUhYXBPEDa+Zn8HEBHPSjbhwrCWUEykMJGvmj/s+IHwdXoafHn3LTkh9+qB6VPu62T2soeiFL7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kylem\\OneDrive\\Documents\\GitHub\\csharp_playerzero\\Target\\Target\\Target.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kylem\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\microsoft.net.test.sdk\\17.2.0\\microsoft.net.test.sdk.17.2.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.2.0\\microsoft.testplatform.objectmodel.17.2.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\microsoft.testplatform.testhost\\17.2.0\\microsoft.testplatform.testhost.17.2.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.5300\\selenium.webdriver.chromedriver.103.0.5060.5300.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.31.0.1\\selenium.webdriver.geckodriver.0.31.0.1.nupkg.sha512",
+    "C:\\Users\\kylem\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
